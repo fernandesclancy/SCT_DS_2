@@ -1,4 +1,4 @@
-**Titanic Data Analysis 🛳️**
+****Titanic Data Analysis 🛳️****
 
 *About*
 This project aims to perform data cleaning and exploratory data analysis (EDA) on the famous Titanic dataset. Using Python and popular data analysis libraries, the analysis dives into key insights about survival rates, exploring relationships among variables like age, gender, and class to uncover patterns and trends.
