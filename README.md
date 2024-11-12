@@ -33,15 +33,18 @@ Several visualizations were created to illustrate findings, including:
 
 Age Distribution Histogram
 Survival Rate by Gender and Class
-Correlation Heatmap
-Pairplot for Age, Fare, and Pclass colored by Survival
-Libraries Used
+
+Correlation Heatmap /n 
+Pairplot for Age, Fare, and Pclass colored by Survival/n
+Libraries Used/n
 pandas for data manipulation
 matplotlib and seaborn for data visualization
 
 *Key Findings*
 Gender and Survival: Women had a significantly higher survival rate than men.
+
 Class and Survival: First-class passengers were more likely to survive compared to second and third-class passengers.
+
 Age and Fare Correlations: Younger passengers and those who paid higher fares had a slight survival advantage.
 
 *Acknowledgements*
