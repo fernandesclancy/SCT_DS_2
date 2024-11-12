@@ -45,4 +45,5 @@ Class and Survival: First-class passengers were more likely to survive compared 
 Age and Fare Correlations: Younger passengers and those who paid higher fares had a slight survival advantage.
 
 *Acknowledgements*
+
 Titanic Dataset: Kaggle
