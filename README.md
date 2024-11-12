@@ -34,10 +34,14 @@ Several visualizations were created to illustrate findings, including:
 Age Distribution Histogram
 Survival Rate by Gender and Class
 
-Correlation Heatmap /n 
-Pairplot for Age, Fare, and Pclass colored by Survival/n
-Libraries Used/n
+Correlation Heatmap 
+
+Pairplot for Age, Fare, and Pclass colored by Survival
+
+Libraries Used
+
 pandas for data manipulation
+
 matplotlib and seaborn for data visualization
 
 *Key Findings*
